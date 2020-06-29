@@ -65,7 +65,7 @@ public class SkillChallenge {
             statistics.add(cat);      
         }
 
-        //Print the content of our list the show the information each category
+        //Print the content of our list to show the information of each category
         for(int i = 0; i < statistics.size(); i++) {
             System.out.println(statistics.get(i) + "\n");
         }
